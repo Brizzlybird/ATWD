@@ -26,7 +26,7 @@ abstract class BaseEndpoint {
   */
 
   protected $config = array(
-    'app_id'    => 'd1558d5cc7d9480d866a9f51e6e0ccdb',
+    'app_id'    => '**********',
     'client'    => DEFAULT_CLIENT,
     'protocol'  => DEFAULT_PROTOCOL,
     'base'      => BASE_CURRENCY
